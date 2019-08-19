@@ -1,12 +1,12 @@
 {
   "Pasien": [
-    { "NoRm": "11600001", "Nama": "Sugeng", "NIK": "8888888888888888", "JK": "Laki-Laki", "StatusHub": "Diri Sendiri" },
-    { "NoRm": "11600002", "Nama": "Sukijo", "NIK": "9999999999999999", "JK": "Laki-Laki", "StatusHub": "Ayah" },
-    { "NoRm": "11600003", "Nama": "SumiSumi", "NIK": "7777777777777777", "JK": "Perempuan", "StatusHub":"Ibu" }
+    { "id": 1, "NoRm": "11600001", "Nama": "Sugeng", "NIK": "8888888888888888", "JK": "Laki-Laki", "StatusHub": "Diri Sendiri" },
+    { "id": 2, "NoRm": "11600002", "Nama": "Sukijo", "NIK": "9999999999999999", "JK": "Laki-Laki", "StatusHub": "Ayah" },
+    { "id": 3, "NoRm": "11600003", "Nama": "SumiSumi", "NIK": "7777777777777777", "JK": "Perempuan", "StatusHub":"Ibu" }
   ],
   "Poli": [
-    { "kodepoli": "001", "NamaPoli": "Poli Jantung", "postId": 1 },
-    { "kodepoli": "002", "NamaPoli": "Poli Syaraf", "postId": 1 }
+    { "id": 1, "NamaPoli": "Poli Jantung", "kodepoli": "001" },
+    { "id": 2, "NamaPoli": "Poli Syaraf", "kodepoli": "002" }
   ],
   "profile": {
     "name": "typicode"
