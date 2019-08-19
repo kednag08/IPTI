@@ -1,1 +1,15 @@
-
+{
+  "Pasien": [
+    { "NoRm": "11600001", "Nama": "Sugeng", "NIK": "8888888888888888", "JK": "Laki-Laki", "StatusHub": "Diri Sendiri" },
+    { "NoRm": "11600002", "Nama": "Sukijo", "NIK": "9999999999999999", "JK": "Laki-Laki", "StatusHub": "Ayah" },
+    { "NoRm": "11600003", "Nama": "SumiSumi", "NIK": "7777777777777777", "JK": "Perempuan", "StatusHub":"Ibu" }
+  ],
+  "Poli": [
+    { "kodepoli": "001", "NamaPoli": "Poli Jantung", "postId": 1 },
+    { "kodepoli": "002", "NamaPoli": "Poli Syaraf", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
+© 2019 GitHub, Inc
